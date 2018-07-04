@@ -6,11 +6,9 @@ Using npm:
 $ npm install speech-to-text-api
 ```
 ## Config
-### 1
-Enable the Cloud Speech API.  [Cloud Platform Console](https://console.cloud.google.com) 
+1.Enable the Cloud Speech API.  [Cloud Platform Console](https://console.cloud.google.com) 
 
-### 2
-Initialize googleApiKey. [Google Cloud API](https://console.cloud.google.com/apis/dashboard)
+2.Initialize googleApiKey. [Google Cloud API](https://console.cloud.google.com/apis/dashboard)
 ``` bash
 googleApiKey: ""
 ```
