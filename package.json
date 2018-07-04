@@ -6,8 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "zesani",
   "license": "ISC",
+  "homepage": "https://github.com/zesani/speech-to-text-api",
   "dependencies": {
     "axios": "^0.18.0"
   }
